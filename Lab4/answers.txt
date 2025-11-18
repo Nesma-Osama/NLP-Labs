@@ -1,0 +1,42 @@
+
+Student 1: Nesma Osama
+Student 2: Mohamed Ashraf
+
+Q1:
+
+there are 243 word embeddings in the loaded subset of word embeddings.
+
+
+Q2:
+
+The dimensionality of each word embedding vector is 300.
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes
+
+
+Q4:
+
+Yes because it is close to 1 which means high similarity
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+The words related to energy such as oil, gas, and petroleum are clustered together. Similarly, emotional words like happy, sad, and joyful are also grouped. The spatial arrangement of these words in the 2D plot effectively captures their relationships.
+
